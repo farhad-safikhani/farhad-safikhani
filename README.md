@@ -1,16 +1,17 @@
-## Hi there 👋
+# Farhad Safikhani
 
-<!--
-**farhad-safikhani/farhad-safikhani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Product Designer. I design complex financial products that people can trust: clear states, visible failures, and AI that suggests while the user decides.
 
-Here are some ideas to get you started:
+- Solo product designer of a fintech CRM for financial advisors (web, mobile, Outlook)
+- Built and governed a design system from scratch for 5 years
+- I build prototypes and apps through design-to-code workflows with Claude Code
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Current projects
+- **Beacon:** a habit and task app for adults with ADHD, built in Flutter. In Google Play closed testing.
+- **Creature Lab:** a browser-based creature simulation in JavaScript.
+
+These repos are private while the products are in development. I am happy to walk you through the code and design decisions on a call.
+
+Portfolio: https://safikhani.com
+LinkedIn: https://linkedin.com/in/farhad-safikhani
+Email: farhad@safikhani.com
