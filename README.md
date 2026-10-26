@@ -12,6 +12,6 @@ Senior Product Designer. I design complex financial products that people can tru
 
 These repos are private while the products are in development. I am happy to walk you through the code and design decisions on a call.
 
-Portfolio: https://safikhani.com
-LinkedIn: https://linkedin.com/in/farhad-safikhani
-Email: farhad@safikhani.com
+- Portfolio: https://safikhani.com
+- LinkedIn: https://linkedin.com/in/farhad-safikhani
+- Email: farhad@safikhani.com
